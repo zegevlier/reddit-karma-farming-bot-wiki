@@ -1,1 +1,1 @@
-Welcome to the reddit-karma-farming-bot wiki!
+### MRPS reddit karma farming bot
